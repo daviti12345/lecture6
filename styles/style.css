@@ -1,0 +1,143 @@
+body{
+	width: 1440px;
+	height: 1793px;
+	background-color: #F1F1F1;
+	z-index: 100;
+}
+
+.container {
+   width: 1165px;
+   margin: 0 auto;
+}
+
+
+nav {
+	color:black ;
+	font-size: 11px;
+	font-weight: 700;
+	word-wrap: break-word
+}
+li {
+	display: inline-block;
+	margin-top: 21px;
+	margin-right: 35px;
+	margin-bottom: 42px;
+}
+h2 {
+	color: black;
+	font-size: 24px;
+	font-weight: 700;
+	word-wrap: break-word;
+	margin-bottom: 40px;
+}
+
+.pic {
+	margin-right: 23px;
+}
+
+.div1 {
+	width: 362px;
+	height:171px ;
+	background-color: white;
+	display: inline-block;
+	margin-right: 23px;
+	padding-top: 55px;
+	padding-left: 37px;
+}
+p {
+	color: #8A8787;
+	font-size: 10px;
+	font-weight: 700;
+	word-wrap: break-word;
+}
+.pe1 {
+   line-height: 20px;
+}
+.pe {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 14px;
+}
+.div1 > img {
+	display: inline-block;
+	margin-top: 11px;
+
+}
+.sec1 {
+  position: relative;
+  display: inline-block;
+}
+h1 {
+	color: white;
+	font-size: 20px;
+	font-weight: 700;
+	word-wrap: break-word;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top:32px ;
+	left: 41px;
+}
+h3 {
+	color: black;
+	font-size: 24px;
+	font-weight: 800;
+	word-wrap: break-word;
+	margin-top: 57px;
+	margin-bottom: 30px;
+}
+
+.div2 {
+	display: inline-block;
+}
+.div3 {
+	display: inline-block;
+}
+ .sec2 {
+ 	display: inline-block;
+ 	position: relative;
+ }
+ .tag {
+ 	color: white;
+	font-size: 20px;
+	font-weight: 700;
+	word-wrap: break-word;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-13%, -5%);
+ }
+
+.div4 {
+	width:1510px ;
+	height: 201px;
+	background-color:#243043;
+	margin-top: 36px;
+	padding-top: 59px;
+	padding-left: 137px;
+}
+.pos {
+	margin-bottom: 42px;
+}
+.div5 > h5 {
+	display: inline-block;
+	margin-right: 96px;
+	margin-bottom: 14px;
+}
+.div6 > h5 {
+	display: inline-block;
+	margin-right: 75px;
+	margin-bottom: 14px;
+}
+.div7 > h5 {
+	display: inline-block;
+	margin-right: 90px;
+	margin-bottom: 14px;
+}
+.div8 > h5 {
+	display: inline-block;
+	margin-right: 86px;
+	margin-bottom: 14px;
+}
